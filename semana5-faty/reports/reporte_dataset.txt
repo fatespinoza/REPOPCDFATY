@@ -1,0 +1,44 @@
+=== PERFILADOR DE DATASETS ===
+
+Fecha: 2026-05-08 01:21:41.110266
+
+=== INFORMACIÓN GENERAL ===
+
+Filas: 6
+Columnas: 4
+Duplicados: 1
+
+=== COLUMNAS ===
+
+- nombre
+- edad
+- salario
+- departamento
+
+=== TIPOS DE DATOS ===
+
+nombre              str
+edad            float64
+salario         float64
+departamento        str
+dtype: object
+
+=== VALORES NULOS ===
+
+nombre          0
+edad            1
+salario         1
+departamento    0
+dtype: int64
+
+=== RESUMEN ESTADÍSTICO ===
+
+            edad       salario
+count   5.000000      5.000000
+mean   24.600000  19000.000000
+std     4.560702   4415.880433
+min    20.000000  15000.000000
+25%    20.000000  15000.000000
+50%    25.000000  18000.000000
+75%    28.000000  22000.000000
+max    30.000000  25000.000000
