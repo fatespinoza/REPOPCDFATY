@@ -1,7 +1,6 @@
-nombre,edad,salario,departamento
-Ana,20,15000,RH
-Luis,25,18000,Sistemas
-Carlos,,22000,Sistemas
-Ana,20,15000,RH
-Maria,30,,Ventas
-Pedro,28,25000,Marketing
+id,nombre,edad,salario,departamento
+1,Ana,25,15000,TI
+2,Carlos,30,18000,RH
+3,Mariana,,20000,Ventas
+4,Pedro,28,,TI
+5,Lucia,35,22000,

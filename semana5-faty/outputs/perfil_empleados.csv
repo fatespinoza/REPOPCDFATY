@@ -1,0 +1,6 @@
+nombre_columna,tipo_inferido,total_registros,valores_nulos,porcentaje_nulos,valores_unicos,porcentaje_unicos,ejemplo_valor
+id,numerico,5,0,0.0,5,100.0,1
+nombre,texto,5,0,0.0,5,100.0,Ana
+edad,numerico,5,1,20.0,4,80.0,25.0
+salario,numerico,5,1,20.0,4,80.0,15000.0
+departamento,texto,5,1,20.0,3,60.0,TI
